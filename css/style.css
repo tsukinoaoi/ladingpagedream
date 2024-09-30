@@ -156,6 +156,8 @@ img {
      height: auto;
 }
 
+
+
  :focus {
      outline: 0;
 }
@@ -711,7 +713,7 @@ ul.conat_info li a:hover {
 
 .testimonial {
      padding: 90px 0 90px 0;
-     background-color: #0f98f8;
+     background-color:#EE457C;
      border-radius: 50px;
 }
 
